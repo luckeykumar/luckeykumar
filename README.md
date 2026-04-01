@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi, I'm Luckey Kumar 👋
 
-<!--
-**luckeykumar/luckeykumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a B.Tech student specializing in **Artificial Intelligence and Machine Learning** with strong interest in building real-world AI and full-stack projects.  
+I enjoy working with Python, machine learning models, and modern web technologies to create practical and useful applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Skills
+
+**Programming Languages**
+- Python
+- C
+- C++
+- JavaScript
+
+**Web Development**
+- HTML
+- CSS
+- Node.js
+- React.js
+- Flask
+- Express.js
+
+**Libraries & Tools**
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-learn
+- GitHub
+- Google Colab
+- Jupyter Notebook
+- VS Code
+
+**Databases**
+- MongoDB
+- MySQL
+
+---
+
+## 🎓 Education
+
+**B.Tech – Artificial Intelligence and Machine Learning**  
+Kalinga University, Raipur  
+2024 – 2028
+
+**Intermediate (PCM)**  
+DAV Public School, Simdega  
+2023
