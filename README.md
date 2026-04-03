@@ -1,4 +1,4 @@
-# Hi, I'm Luckey Kumar 👋
+# Hi, I'm Luckey  👋
 
 I am a B.Tech student specializing in **Artificial Intelligence and Machine Learning** with strong interest in building real-world AI and full-stack projects.  
 I enjoy working with Python, machine learning models, and modern web technologies to create practical and useful applications.
